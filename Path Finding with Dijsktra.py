@@ -9,7 +9,7 @@ import time
 gridSize = 500
 w = h = gridSize
 
-hex_size = 20
+hex_size = 24
 epsilon = hex_size/100
 
 grid_x_pixels = 0.8 * w
