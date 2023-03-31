@@ -8,4 +8,4 @@ Afterwards, introduced barriers to the grid, and implemented dijkstra's algorith
 
 ![image](https://user-images.githubusercontent.com/95189786/229098857-13a239f1-300d-46a9-b388-27f23c8fd9b8.png)
 
-If you liked our project or have a feedback feel free to reach out to me via [Linkedin](linkedin.com/in/berkturgut)
+If you liked our project or have a feedback feel free to reach out to me via [Linkedin](https://www.linkedin.com/in/berkturgut/)
