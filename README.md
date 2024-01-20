@@ -1,4 +1,4 @@
-# Path Dinding with Djsktra's Algorithm
+# Path Finding with Djsktra's Algorithm
 
 This demo is a project me and my partner developed under [BogaziciAI](https://www.linkedin.com/company/bogaziciai). In this project we wanted to visualize how path finding algorithms work. To that end, we initially created game.py, which is a playground that you can move in a hexagonal grid with QWE and ASD keys. The purpose is to reach the blue circle to the read circle.
 
